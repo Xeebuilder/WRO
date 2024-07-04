@@ -1,5 +1,5 @@
-git add .
-git commit -m "The changes that was nade"
-git push origin compu
+## git add .
+## git commit -m "The changes that was nade"
+## git push origin compu
 
-Luego se van a ir a pull request y le van a dar en "compare and create pull request", despues van a aceptar los cambios y listo
+## Luego se van a ir a pull request y le van a dar en "compare and create pull request", despues van a aceptar los cambios y listo
